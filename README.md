@@ -18,3 +18,8 @@ A self-contained Python application that uses the **A* Search Algorithm** to fin
   * `maze_output.png` — A picture snippet of the finished shortest path window.
 
 [SyntecX_Artificial_Intelligence_Internship_Maze_Solver_A_Star_Final.zip](https://github.com/user-attachments/files/27898768/SyntecX_Artificial_Intelligence_Internship_Maze_Solver_A_Star_Final.zip)
+
+[Project1_maze_solver. video output.zip](https://github.com/user-attachments/files/27902627/Project1_maze_solver.video.output.zip)
+
+
+
